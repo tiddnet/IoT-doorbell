@@ -4,7 +4,7 @@
  * This is a sample Lambda function that sends an Email on click of a
  * button. It creates a SNS topic, subscribes an endpoint (EMAIL)
  * to the topic and publishes to the topic.
- *
+ * 
  * Follow these steps to complete the configuration of your function:
  *
  * 1. Update the email environment variable with your email address.
